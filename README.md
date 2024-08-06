@@ -3,11 +3,11 @@
 Full-Stack Developer taking advantage of technologies such as JavaScript, React.js, Python, Django, Git, and Postgres to make my life more interesting.
 
 ### 🏗 Skills:
-• JavaScript, React, Router, Redux, Styled Components, HTML, CSS, SASS
-• Python, Django, REST, ORM, API, Postman
-• SQL, PostgreSQL, MySQL
-• Heroku, Digital Ocean, Netlify
-• Git, GitLab
+• JavaScript, React, Router, Redux, Styled Components, HTML, CSS, SASS  
+• Python, Django, REST, ORM, API, Postman  
+• SQL, PostgreSQL, MySQL  
+• Heroku, Digital Ocean, Netlify  
+• Git, GitLab  
 
 ### 🔎 Current Focus:
 React  
