@@ -1,6 +1,7 @@
 ## Good day! 🫡
 
 Full-Stack Developer taking advantage of technologies such as JavaScript, React.js, Python, Django, Git, and Postgres to make my life more interesting.  
+
 💬 English  
 💬 German  
 
