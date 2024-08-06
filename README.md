@@ -1,16 +1,24 @@
-## Hi there 👋
+## Good day! 🫡
+
+Full-Stack Developer taking advantage of technologies such as JavaScript, React.js, Python, Django, Git, and Postgres to make my life more interesting.
+
+### 🏗 Skills:
+• JavaScript, React, Router, Redux, Styled Components, HTML, CSS, SASS
+• Python, Django, REST, ORM, API, Postman
+• SQL, PostgreSQL, MySQL
+• Heroku, Digital Ocean, Netlify
+• Git, GitLab
+
+### 🔎 Current Focus:
+React
+Django
+Postgres
+
+### Hit me up:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/luka-cafuta)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&labelColor=7289DA)](https://discordapp.com/users/889877455203078174)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red)](mailto:luka.cafuta@gmail.com)
 
 <!--
 **lukacafuta/lukacafuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
