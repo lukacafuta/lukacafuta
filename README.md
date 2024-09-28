@@ -1,6 +1,6 @@
 ## Good day! 🫡
 
-Full-Stack Developer taking advantage of technologies such as JavaScript, React.js, Python, Django, Git, and Postgres to make life more interesting.  
+Full-Stack Developer taking advantage of technologies such as React.js, Django REST Framework, Git, and Postgres to make life more interesting.  
 
 💬 English  
 💬 German  
