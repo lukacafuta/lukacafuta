@@ -13,7 +13,10 @@
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="50" height="50"/>
+  <img src="https://cdn.svgporn.com/logos/figma.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="50" height="50"/>
 </p>
+
 
 
 
