@@ -1,14 +1,10 @@
-<p align="center">
-  <strong>Good day! 🫡</strong>
-</p>
+<div align="center">
 
-<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+## Good day! 🫡
 
-<p align="center">
-  <strong>Full Stack Web Developer</strong>
-</p>
+## Full Stack Web Developer
 
-<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+</div>
 
 <p align="center">
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="50" height="50"/> 
@@ -20,7 +16,6 @@
 </p>
 
 
- 
 
 <!--
 **lukacafuta/lukacafuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
