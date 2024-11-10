@@ -1,16 +1,25 @@
 <p align="center">
-  ## Good day! 🫡  
-  ### Full Stack Web Developer
+  <strong>Good day! 🫡</strong>
 </p>
 
+<hr>
+
 <p align="center">
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="40" height="40"/> 
-  <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.svgporn.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+  <strong>Full Stack Web Developer</strong>
 </p>
+
+<hr>
+
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="50" height="50"/> 
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="50" height="50"/> 
+  <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.svgporn.com/logos/django.svg" alt="Django" width="50" height="50"/>
+</p>
+
+
  
 
 <!--
