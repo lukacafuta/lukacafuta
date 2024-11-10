@@ -2,13 +2,13 @@
   <strong>Good day! 🫡</strong>
 </p>
 
-<hr>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
 <p align="center">
   <strong>Full Stack Web Developer</strong>
 </p>
 
-<hr>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
 <p align="center">
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="50" height="50"/> 
